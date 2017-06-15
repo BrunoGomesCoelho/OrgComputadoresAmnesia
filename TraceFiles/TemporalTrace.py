@@ -1,4 +1,4 @@
-from random import randint, random 
+from random import randint, random, shuffle
 import operator
 # randint: retorna um número inteiro aleatorio (a, b) tq a <= N <= b
 # random: numero aleatorio entre 0 e 1
@@ -51,15 +51,17 @@ def updateVector(newPos):
 
 def principioTemporal():
     global vetorAux
-    sortRand = random()
     '''
-    if sortRand < 0.5 :
-        vetorAux.sort(key=operator.itemgetter(1))
-        vetorAux = vetorAux[::-1]
-    else: 
-        '''
+    Em ordem decrescente de tempo
+    vetorAux.sort(key=operator.itemgetter(1))
+
+    Em ordem crescente de tempo
     vetorAux.sort(key=operator.itemgetter(1))
     vetorAux = vetorAux[::-1]
+    '''
+    
+    # Embaralhando o vetor
+    shuffle(vetorAux)
     global hit
     
     for element in vetorAux:
