@@ -1,6 +1,6 @@
-# Arquitetura: MapFunction Direct
+# Arquitetura: SubAlg LRU
 # Trace: Espacial e temporal
-# Variação: Mapeamento Direto
+# Variação: Algoritmo de Substituicao LRU
 
 
 Unified Cache - Level 1
@@ -11,19 +11,19 @@ Unified Cache - Level 1
 	 Write Cycles: 672
 	 Write Time: 672
 	 Total Access: 1000
-	 Total Hit: 536
-	 Total Miss: 464
-	 Hit rate: 0.536
+	 Total Hit: 610
+	 Total Miss: 390
+	 Hit rate: 0.61
 	 Total Time: 1336
 
 Main Memory
-	 Read Access: 464
-	 Read Cycles: 464
-	 Read Time: 4640
+	 Read Access: 390
+	 Read Cycles: 390
+	 Read Time: 3900
 	 Write Access: 336
 	 Write Cycles: 672
 	 Write Time: 6720
-	 Total Access: 800
-	 Total Time: 11360
+	 Total Access: 726
+	 Total Time: 10620
 
- Total Time: 12696
+ Total Time: 11956

@@ -1,0 +1,42 @@
+# Arquitetura: qtdCache data data
+# Trace: Randômico
+# Variação: 2 caches independentes para dados
+
+
+Unified Cache - Level 1
+	 Read Access: 706
+	 Read Cycles: 706
+	 Read Time: 706
+	 Write Access: 294
+	 Write Cycles: 588
+	 Write Time: 588
+	 Total Access: 1000
+	 Total Hit: 301
+	 Total Miss: 699
+	 Hit rate: 0.301
+	 Total Time: 1294
+
+Unified Cache - Level 2
+	 Read Access: 699
+	 Read Cycles: 699
+	 Read Time: 699
+	 Write Access: 294
+	 Write Cycles: 588
+	 Write Time: 588
+	 Total Access: 993
+	 Total Hit: 294
+	 Total Miss: 699
+	 Hit rate: 0.2960725
+	 Total Time: 1287
+
+Main Memory
+	 Read Access: 699
+	 Read Cycles: 699
+	 Read Time: 6990
+	 Write Access: 294
+	 Write Cycles: 588
+	 Write Time: 5880
+	 Total Access: 993
+	 Total Time: 12870
+
+ Total Time: 15451

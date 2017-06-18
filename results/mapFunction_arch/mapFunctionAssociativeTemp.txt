@@ -2,3 +2,28 @@
 # Trace: Temporal
 # Variação: Mapeamento Associativo
 
+
+Unified Cache - Level 1
+	 Read Access: 646
+	 Read Cycles: 646
+	 Read Time: 646
+	 Write Access: 354
+	 Write Cycles: 708
+	 Write Time: 708
+	 Total Access: 1000
+	 Total Hit: 586
+	 Total Miss: 414
+	 Hit rate: 0.586
+	 Total Time: 1354
+
+Main Memory
+	 Read Access: 414
+	 Read Cycles: 414
+	 Read Time: 4140
+	 Write Access: 354
+	 Write Cycles: 708
+	 Write Time: 7080
+	 Total Access: 768
+	 Total Time: 11220
+
+ Total Time: 12574

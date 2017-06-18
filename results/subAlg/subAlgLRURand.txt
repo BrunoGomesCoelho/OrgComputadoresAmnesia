@@ -1,6 +1,6 @@
-# Arquitetura: MapFunction Assiciative
+# Arquitetura: SubAlg LRU
 # Trace: Randômico
-# Variação: Mapeamento Associativo
+# Variação: Algoritmo de Substituicao LRU
 
 
 Unified Cache - Level 1
@@ -11,19 +11,19 @@ Unified Cache - Level 1
 	 Write Cycles: 588
 	 Write Time: 588
 	 Total Access: 1000
-	 Total Hit: 298
-	 Total Miss: 702
-	 Hit rate: 0.298
+	 Total Hit: 302
+	 Total Miss: 698
+	 Hit rate: 0.302
 	 Total Time: 1294
 
 Main Memory
-	 Read Access: 702
-	 Read Cycles: 702
-	 Read Time: 7020
+	 Read Access: 698
+	 Read Cycles: 698
+	 Read Time: 6980
 	 Write Access: 294
 	 Write Cycles: 588
 	 Write Time: 5880
-	 Total Access: 996
-	 Total Time: 12900
+	 Total Access: 992
+	 Total Time: 12860
 
- Total Time: 14194
+ Total Time: 14154

@@ -2,3 +2,28 @@
 # Trace: Randômico
 # Variação: Mapeamento Direto
 
+
+Unified Cache - Level 1
+	 Read Access: 706
+	 Read Cycles: 706
+	 Read Time: 706
+	 Write Access: 294
+	 Write Cycles: 588
+	 Write Time: 588
+	 Total Access: 1000
+	 Total Hit: 192
+	 Total Miss: 808
+	 Hit rate: 0.192
+	 Total Time: 1294
+
+Main Memory
+	 Read Access: 808
+	 Read Cycles: 808
+	 Read Time: 8080
+	 Write Access: 294
+	 Write Cycles: 588
+	 Write Time: 5880
+	 Total Access: 1102
+	 Total Time: 13960
+
+ Total Time: 15254

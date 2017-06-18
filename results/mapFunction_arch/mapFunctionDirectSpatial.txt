@@ -2,3 +2,28 @@
 # Trace: Espacial
 # Variação: Mapeamento Direto
 
+
+Unified Cache - Level 1
+	 Read Access: 702
+	 Read Cycles: 702
+	 Read Time: 702
+	 Write Access: 298
+	 Write Cycles: 596
+	 Write Time: 596
+	 Total Access: 1000
+	 Total Hit: 743
+	 Total Miss: 257
+	 Hit rate: 0.743
+	 Total Time: 1298
+
+Main Memory
+	 Read Access: 257
+	 Read Cycles: 257
+	 Read Time: 2570
+	 Write Access: 298
+	 Write Cycles: 596
+	 Write Time: 5960
+	 Total Access: 555
+	 Total Time: 8530
+
+ Total Time: 9828

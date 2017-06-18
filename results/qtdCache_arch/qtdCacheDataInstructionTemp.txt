@@ -1,0 +1,42 @@
+# Arquitetura: qtdCache data instruction
+# Trace: Temporal
+# Variação: 1 cache para dados, 1 cache para instrucoes
+
+
+Data Cache - Level 1
+	 Read Access: 0
+	 Read Cycles: 0
+	 Read Time: 0
+	 Write Access: 354
+	 Write Cycles: 708
+	 Write Time: 708
+	 Total Access: 354
+	 Total Hit: 156
+	 Total Miss: 198
+	 Hit rate: 0.44067797
+	 Total Time: 708
+
+Instruction Cache - Level 1
+	 Read Access: 646
+	 Read Cycles: 646
+	 Read Time: 646
+	 Write Access: 0
+	 Write Cycles: 0
+	 Write Time: 0
+	 Total Access: 646
+	 Total Hit: 386
+	 Total Miss: 260
+	 Hit rate: 0.5975232
+	 Total Time: 646
+
+Main Memory
+	 Read Access: 458
+	 Read Cycles: 458
+	 Read Time: 4580
+	 Write Access: 354
+	 Write Cycles: 708
+	 Write Time: 7080
+	 Total Access: 812
+	 Total Time: 11660
+
+ Total Time: 13014
