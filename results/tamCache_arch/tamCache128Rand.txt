@@ -1,0 +1,29 @@
+# Arquitetura: tamCache 128
+# Trace: Randômico
+# Variação: 128 palavras na cache
+
+
+Unified Cache - Level 1
+	 Read Access: 706
+	 Read Cycles: 706
+	 Read Time: 706
+	 Write Access: 294
+	 Write Cycles: 588
+	 Write Time: 588
+	 Total Access: 1000
+	 Total Hit: 164
+	 Total Miss: 836
+	 Hit rate: 0.164
+	 Total Time: 1294
+
+Main Memory
+	 Read Access: 836
+	 Read Cycles: 836
+	 Read Time: 8360
+	 Write Access: 294
+	 Write Cycles: 588
+	 Write Time: 5880
+	 Total Access: 1130
+	 Total Time: 14240
+
+ Total Time: 15534

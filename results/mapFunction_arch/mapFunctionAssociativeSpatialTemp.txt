@@ -1,0 +1,4 @@
+# Arquitetura: MapFunction Assiciative
+# Trace: Espacial e temporal
+# Variação: Mapeamento Associativo
+

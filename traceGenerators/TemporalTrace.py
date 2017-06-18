@@ -4,10 +4,13 @@ import operator
 # random: numero aleatorio entre 0 e 1
 
 # Variaveis da memoria
-tamMemoria = 10000
-tamBloco = 4
+tamBloco = 16 # palavras
+qtdBlocos = 128 # blocos na mem principal
 
-qtdTraces = 10000
+tamMemoria = tamBloco * qtdBlocos
+
+
+qtdTraces = 1000
 
 #Variaveis do algoritmo em geral
 freqLeitura = 0.68

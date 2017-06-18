@@ -1,0 +1,28 @@
+# Arquitetura: tamCache 512
+# Trace: Espacial
+# Variação: 512 palavras na cache
+
+Unified Cache - Level 1
+	 Read Access: 702
+	 Read Cycles: 702
+	 Read Time: 702
+	 Write Access: 298
+	 Write Cycles: 596
+	 Write Time: 596
+	 Total Access: 1000
+	 Total Hit: 836
+	 Total Miss: 164
+	 Hit rate: 0.836
+	 Total Time: 1298
+
+Main Memory
+	 Read Access: 164
+	 Read Cycles: 164
+	 Read Time: 1640
+	 Write Access: 298
+	 Write Cycles: 596
+	 Write Time: 5960
+	 Total Access: 462
+	 Total Time: 7600
+
+ Total Time: 8898

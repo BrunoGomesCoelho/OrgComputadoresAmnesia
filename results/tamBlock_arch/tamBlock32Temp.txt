@@ -1,0 +1,29 @@
+# Arquitetura: tamBloco 32
+# Trace: Temporal
+# Variação: 32 palavras por bloco
+
+
+Unified Cache - Level 1
+	 Read Access: 646
+	 Read Cycles: 646
+	 Read Time: 646
+	 Write Access: 354
+	 Write Cycles: 708
+	 Write Time: 708
+	 Total Access: 1000
+	 Total Hit: 487
+	 Total Miss: 513
+	 Hit rate: 0.487
+	 Total Time: 1354
+
+Main Memory
+	 Read Access: 513
+	 Read Cycles: 513
+	 Read Time: 5130
+	 Write Access: 354
+	 Write Cycles: 708
+	 Write Time: 7080
+	 Total Access: 867
+	 Total Time: 12210
+
+ Total Time: 13564

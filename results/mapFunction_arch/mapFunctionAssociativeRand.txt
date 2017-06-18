@@ -1,0 +1,4 @@
+# Arquitetura: MapFunction Assiciative
+# Trace: Randômico
+# Variação: Mapeamento Associativo
+

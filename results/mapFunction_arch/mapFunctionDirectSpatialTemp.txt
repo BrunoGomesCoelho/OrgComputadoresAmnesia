@@ -1,0 +1,4 @@
+# Arquitetura: MapFunction Direct
+# Trace: Espacial e temporal
+# Variação: Mapeamento Direto
+

@@ -1,0 +1,28 @@
+# Arquitetura: Base
+# Trace: Spacial
+# Variação: Nenhuma
+
+Unified Cache - Level 1
+	 Read Access: 702
+	 Read Cycles: 702
+	 Read Time: 702
+	 Write Access: 298
+	 Write Cycles: 596
+	 Write Time: 596
+	 Total Access: 1000
+	 Total Hit: 775
+	 Total Miss: 225
+	 Hit rate: 0.775
+	 Total Time: 1298
+
+Main Memory
+	 Read Access: 225
+	 Read Cycles: 225
+	 Read Time: 2250
+	 Write Access: 298
+	 Write Cycles: 596
+	 Write Time: 5960
+	 Total Access: 523
+	 Total Time: 8210
+
+ Total Time: 9508

@@ -1,0 +1,29 @@
+# Arquitetura: tamBloco 8
+# Trace: Espacial
+# Variação: 8 palavras por bloco
+
+
+Unified Cache - Level 1
+	 Read Access: 702
+	 Read Cycles: 702
+	 Read Time: 702
+	 Write Access: 298
+	 Write Cycles: 596
+	 Write Time: 596
+	 Total Access: 1000
+	 Total Hit: 692
+	 Total Miss: 308
+	 Hit rate: 0.692
+	 Total Time: 1298
+
+Main Memory
+	 Read Access: 308
+	 Read Cycles: 308
+	 Read Time: 3080
+	 Write Access: 298
+	 Write Cycles: 596
+	 Write Time: 5960
+	 Total Access: 606
+	 Total Time: 9040
+
+ Total Time: 10338

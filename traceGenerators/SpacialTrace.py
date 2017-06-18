@@ -2,8 +2,10 @@ from random import randint, random
 # randint: retorna um número inteiro aleatorio (a, b) tq a <= N <= b
 # random: numero aleatorio entre 0 e 1
 
-tamMemoria = 100
-tamBloco = 4
+tamBloco = 16 # palavras
+qtdBlocos = 128 # blocos na mem principal
+
+tamMemoria = tamBloco * qtdBlocos
 
 qtdTraces = 1000
 

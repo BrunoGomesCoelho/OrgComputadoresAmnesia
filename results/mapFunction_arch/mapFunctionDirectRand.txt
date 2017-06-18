@@ -1,0 +1,4 @@
+# Arquitetura: MapFunction Direct
+# Trace: Randômico
+# Variação: Mapeamento Direto
+
